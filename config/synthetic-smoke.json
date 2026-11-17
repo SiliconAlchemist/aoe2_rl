@@ -1,0 +1,10 @@
+{
+  "backend": "synthetic",
+  "algorithms": ["bc", "ppo", "bc-ppo"],
+  "seeds": [1, 2, 3],
+  "seconds_per_run": 5,
+  "nightly_seconds": 180,
+  "total_machine_seconds": 180,
+  "evaluation_episodes": 20,
+  "device": "cpu"
+}

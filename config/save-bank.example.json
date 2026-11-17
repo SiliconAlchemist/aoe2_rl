@@ -1,0 +1,7 @@
+{
+  "split": "train",
+  "entries": [
+    {"seed": 0, "side": 0, "save_game": "aoe2rl_0_0.aoe2spgame", "live_verified": false},
+    {"seed": 0, "side": 1, "save_game": "aoe2rl_0_1.aoe2spgame", "live_verified": false}
+  ]
+}

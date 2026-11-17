@@ -1,0 +1,10 @@
+{
+  "build": "101.103.48987.0",
+  "control_version": "1.0.0",
+  "fog_test_passed": false,
+  "native_ai_suppression_verified": false,
+  "action_rate_verified": false,
+  "reset_verified": false,
+  "evidence_directory": null,
+  "notes": "NOT VERIFIED. Do not change flags until live tests in docs/LIVE_SETUP.md pass."
+}

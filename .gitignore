@@ -1,0 +1,42 @@
+.venv/
+.venv-replays/
+.cache/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+runs/
+vendor/
+artifacts/scenarios/
+config/local.json
+data/replays/
+
+# Generated local evidence and packaging output
+/reports/
+/build/
+/dist/
+*.whl
+*.log
+.env
+.env.*
+!.env.example
+
+# Replay/game files and model weights, even when copied outside output folders
+*.aoe2record
+*.aoe2spgame
+*.aoe2scenario
+*.mgz
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Local tooling and analysis output
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+Thumbs.db
+Desktop.ini
+.DS_Store

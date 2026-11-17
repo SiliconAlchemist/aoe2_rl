@@ -1,0 +1,3 @@
+// RESEARCH ONLY. Not connected to any loader. ABI and layouts NOT VALIDATED.
+static const char* SIG_FUNC_RUN_LIST_CANDIDATE = "40 53 41 54 48 83 EC 78 48 8B 05 ?? ?? ?? ?? 48 33 C4 48 89 44 24 38 4C 63 CA 4D 8B E0 48 8B D9 85 D2 0F 88 ?? ?? ?? ?? 0F BF 81 90 00 00 00 44 3B C8 0F 8D ?? ?? ?? ?? 48 8B 81 98 00 00 00 4B 8D 14 49";
+static const char* SIG_FUNC_GAME_TYPE_CANDIDATE = "48 89 5C 24 08 57 48 83 EC 30 8B DA 8B F9 48 8D 54 24 50 48 8B 0D ?? ?? ?? ?? E8 ?? ?? ?? ?? 90 48 8B 10 C6 44 24 20 00 41 B1 01 44 8B C3 8B 52 34 8B CF E8 ?? ?? ?? ?? 8B D8 48 8B 4C 24 50 48 85 C9";
